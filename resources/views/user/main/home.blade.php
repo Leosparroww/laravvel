@@ -148,8 +148,6 @@
                             dataType: 'json',
 
                             success: function(response) {
-
-
                                 $list = '';
                                 for ($i = 0; $i < response.length; $i++) {
                                     // console.log(`${response[$i].name}`)
