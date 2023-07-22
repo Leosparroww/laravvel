@@ -1,10 +1,13 @@
 
 <h1> How to use</h1> <br>
 
-    integrate table and data seed accoout are
+    integrate table and data seed account are
     admin-> mail: admin@gmail.com pwd:admin123
     user-> mail: admin@gmail.com pwd:user123
-    
+
+
+<h1> Data base </h1>
+I also attach the SQL file so you can import it and use it.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
