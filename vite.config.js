@@ -1,5 +1,3 @@
-import "./bootstrap";
-import "../css/app.css";
 import { defineConfig } from "vite";
 import laravel from "laravel-vite-plugin";
 
